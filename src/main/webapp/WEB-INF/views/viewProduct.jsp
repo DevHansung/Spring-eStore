@@ -22,7 +22,7 @@
 				<p>
 					<strong>Category: </strong>${product.category}</p>
 				<p>
-					<strong> ${product.price}원</strong>
+					<strong> ${product.price} won</strong>
 				</p>
 
 			</div>
