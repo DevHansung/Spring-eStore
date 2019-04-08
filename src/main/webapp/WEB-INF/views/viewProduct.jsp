@@ -17,13 +17,13 @@
 			<div class="col-md-6">
 				<h3>${product.name}</h3>
 				<p>	
-					<strong>Description: </strong> ${product.description}</p>
+					<strong>Description: </strong> ${product.description} </p>
 				<p>
-					<strong>ManuFacturer: </strong>${product.manufacturer}</p>
+					<strong>ManuFacturer: </strong>${product.manufacturer} </p>
 				<p>
-					<strong>Category: </strong>${product.category}</p>
+					<strong>Category: </strong>${product.category} </p>
 				<p>
-					<strong>Price: </strong> ${product.price} <strong> won</strong></p>
+					<strong>Price: </strong> ${product.price} <strong> won</strong> </p>
 
 			</div>
 		</div>
