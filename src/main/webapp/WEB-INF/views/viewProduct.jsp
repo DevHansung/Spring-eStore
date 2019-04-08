@@ -22,8 +22,7 @@
 				<p>
 					<strong>Category: </strong>${product.category}</p>
 				<p>
-					<strong> ${product.price} won</strong>
-				</p>
+					<strong>Price: </strong> ${product.price} <strong> won</strong></p>
 
 			</div>
 		</div>
